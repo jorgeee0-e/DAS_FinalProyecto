@@ -3,14 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\Jorge LG\\OneDrive - Universidad Don Bosco\\UDB - CC Computaci\u00F3n\\UDB Ciclo I - 2024\\DAS901\\Unidad V\\API_UDB\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8C2255D5-CFC2-437B-BFDC-2446917CF35F}|API_UDB\\API_UDB.csproj|c:\\users\\jorge lg\\onedrive - universidad don bosco\\udb - cc computaci\u00F3n\\udb ciclo i - 2024\\das901\\unidad v\\api_udb\\api_udb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8C2255D5-CFC2-437B-BFDC-2446917CF35F}|API_UDB\\API_UDB.csproj|solutionrelative:api_udb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8C2255D5-CFC2-437B-BFDC-2446917CF35F}|API_UDB\\API_UDB.csproj|c:\\users\\jorge lg\\onedrive - universidad don bosco\\udb - cc computaci\u00F3n\\udb ciclo i - 2024\\das901\\unidad v\\api_udb\\api_udb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{8C2255D5-CFC2-437B-BFDC-2446917CF35F}|API_UDB\\API_UDB.csproj|solutionrelative:api_udb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8C2255D5-CFC2-437B-BFDC-2446917CF35F}|API_UDB\\API_UDB.csproj|c:\\users\\jorge lg\\onedrive - universidad don bosco\\udb - cc computaci\u00F3n\\udb ciclo i - 2024\\das901\\unidad v\\api_udb\\api_udb\\controllers\\noticiascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8C2255D5-CFC2-437B-BFDC-2446917CF35F}|API_UDB\\API_UDB.csproj|solutionrelative:api_udb\\controllers\\noticiascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -25,10 +17,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{8C2255D5-CFC2-437B-BFDC-2446917CF35F}|API_UDB\\API_UDB.csproj|c:\\users\\jorge lg\\onedrive - universidad don bosco\\udb - cc computaci\u00F3n\\udb ciclo i - 2024\\das901\\unidad v\\api_udb\\api_udb\\models\\carreras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8C2255D5-CFC2-437B-BFDC-2446917CF35F}|API_UDB\\API_UDB.csproj|solutionrelative:api_udb\\models\\carreras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8C2255D5-CFC2-437B-BFDC-2446917CF35F}|API_UDB\\API_UDB.csproj|c:\\users\\jorge lg\\onedrive - universidad don bosco\\udb - cc computaci\u00F3n\\udb ciclo i - 2024\\das901\\unidad v\\api_udb\\api_udb\\models\\contactanosinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8C2255D5-CFC2-437B-BFDC-2446917CF35F}|API_UDB\\API_UDB.csproj|solutionrelative:api_udb\\models\\contactanosinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,58 +30,33 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Jorge LG\\OneDrive - Universidad Don Bosco\\UDB - CC Computaci\u00F3n\\UDB Ciclo I - 2024\\DAS901\\Unidad V\\API_UDB\\API_UDB\\appsettings.json",
-              "RelativeDocumentMoniker": "API_UDB\\appsettings.json",
-              "ToolTip": "C:\\Users\\Jorge LG\\OneDrive - Universidad Don Bosco\\UDB - CC Computaci\u00F3n\\UDB Ciclo I - 2024\\DAS901\\Unidad V\\API_UDB\\API_UDB\\appsettings.json",
-              "RelativeToolTip": "API_UDB\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAACAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-06-04T05:18:56.361Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Jorge LG\\OneDrive - Universidad Don Bosco\\UDB - CC Computaci\u00F3n\\UDB Ciclo I - 2024\\DAS901\\Unidad V\\API_UDB\\API_UDB\\Program.cs",
-              "RelativeDocumentMoniker": "API_UDB\\Program.cs",
-              "ToolTip": "C:\\Users\\Jorge LG\\OneDrive - Universidad Don Bosco\\UDB - CC Computaci\u00F3n\\UDB Ciclo I - 2024\\DAS901\\Unidad V\\API_UDB\\API_UDB\\Program.cs",
-              "RelativeToolTip": "API_UDB\\Program.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAACAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-04T04:29:11.984Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "Carreras.cs",
               "DocumentMoniker": "C:\\Users\\Jorge LG\\OneDrive - Universidad Don Bosco\\UDB - CC Computaci\u00F3n\\UDB Ciclo I - 2024\\DAS901\\Unidad V\\API_UDB\\API_UDB\\Models\\Carreras.cs",
               "RelativeDocumentMoniker": "API_UDB\\Models\\Carreras.cs",
               "ToolTip": "C:\\Users\\Jorge LG\\OneDrive - Universidad Don Bosco\\UDB - CC Computaci\u00F3n\\UDB Ciclo I - 2024\\DAS901\\Unidad V\\API_UDB\\API_UDB\\Models\\Carreras.cs",
               "RelativeToolTip": "API_UDB\\Models\\Carreras.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAYwBgAAAAuAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-04T03:11:59.469Z"
+              "WhenOpened": "2024-06-04T03:11:59.469Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "NoticiasController.cs",
               "DocumentMoniker": "C:\\Users\\Jorge LG\\OneDrive - Universidad Don Bosco\\UDB - CC Computaci\u00F3n\\UDB Ciclo I - 2024\\DAS901\\Unidad V\\API_UDB\\API_UDB\\Controllers\\NoticiasController.cs",
               "RelativeDocumentMoniker": "API_UDB\\Controllers\\NoticiasController.cs",
               "ToolTip": "C:\\Users\\Jorge LG\\OneDrive - Universidad Don Bosco\\UDB - CC Computaci\u00F3n\\UDB Ciclo I - 2024\\DAS901\\Unidad V\\API_UDB\\API_UDB\\Controllers\\NoticiasController.cs",
               "RelativeToolTip": "API_UDB\\Controllers\\NoticiasController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAeAAAA",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAxwBcAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-04T02:11:40.543Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "CarrerasController.cs",
               "DocumentMoniker": "C:\\Users\\Jorge LG\\OneDrive - Universidad Don Bosco\\UDB - CC Computaci\u00F3n\\UDB Ciclo I - 2024\\DAS901\\Unidad V\\API_UDB\\API_UDB\\Controllers\\CarrerasController.cs",
               "RelativeDocumentMoniker": "API_UDB\\Controllers\\CarrerasController.cs",
@@ -105,7 +68,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "ContactanosController.cs",
               "DocumentMoniker": "C:\\Users\\Jorge LG\\OneDrive - Universidad Don Bosco\\UDB - CC Computaci\u00F3n\\UDB Ciclo I - 2024\\DAS901\\Unidad V\\API_UDB\\API_UDB\\Controllers\\ContactanosController.cs",
               "RelativeDocumentMoniker": "API_UDB\\Controllers\\ContactanosController.cs",
@@ -114,18 +77,6 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-04T00:56:54.479Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ContactanosInput.cs",
-              "DocumentMoniker": "C:\\Users\\Jorge LG\\OneDrive - Universidad Don Bosco\\UDB - CC Computaci\u00F3n\\UDB Ciclo I - 2024\\DAS901\\Unidad V\\API_UDB\\API_UDB\\Models\\ContactanosInput.cs",
-              "RelativeDocumentMoniker": "API_UDB\\Models\\ContactanosInput.cs",
-              "ToolTip": "C:\\Users\\Jorge LG\\OneDrive - Universidad Don Bosco\\UDB - CC Computaci\u00F3n\\UDB Ciclo I - 2024\\DAS901\\Unidad V\\API_UDB\\API_UDB\\Models\\ContactanosInput.cs",
-              "RelativeToolTip": "API_UDB\\Models\\ContactanosInput.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-04T01:55:29.119Z"
             }
           ]
         }

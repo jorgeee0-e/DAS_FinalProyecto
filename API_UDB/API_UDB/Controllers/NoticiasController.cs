@@ -38,6 +38,7 @@ namespace API_UDB.Controllers
                         {
                             Id_noticia = Convert.ToString(rd["id_noticia"]),
                             Titulo = Convert.ToString(rd["titulo"]),
+                            Contenido = Convert.ToString(rd["contenido"]),
                             Fecha_publicacion =Convert.ToDateTime((rd["fecha_publicacion"])),
                             Id_carrera = Convert.ToString(rd["id_carrera"]),
                             Imagen = Convert.ToString(rd["imagen"]),

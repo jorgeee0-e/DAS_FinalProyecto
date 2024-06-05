@@ -7,21 +7,21 @@ https://go.microsoft.com/fwlink/?LinkID=208121.
     <TimeStampOfAssociatedLegacyPublishXmlFile />
     <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAATvlXZEIqEEizcInyBkvfrgAAAAACAAAAAAAQZgAAAAEAACAAAAAY9atNCmkGN2Gqd68J0+2gDpVWQYGIB1WwDFroT/2hXwAAAAAOgAAAAAIAACAAAADK46evRsdZFAeHCOhCSKL3YX00WTC6ToLlJR2EjzHVhSAAAAAqvMbQBQGegEq/JQjzOgPQSdX7GThoYZPGhmxn9TnozEAAAACT8NkSpzn1BEYYRhEl0IKfTFmQmNyrrV5qa2AIvgLahuyFBaGRJ7oiLfipmv37NUOe3V7s3h+UTFYlXEy9eQzN</EncryptedPassword>
     <_PublishTargetUrl>ftp://155.254.244.38/www.udbwebbd.somee.com</_PublishTargetUrl>
-    <History>True|2024-06-04T05:38:12.3289517Z||;</History>
+    <History>True|2024-06-05T03:44:07.5491335Z||;True|2024-06-03T23:38:12.3289517-06:00||;</History>
     <LastFailureDetails />
   </PropertyGroup>
   <ItemGroup>
     <File Include="API_UDB.deps.json">
-      <publishTime>06/03/2024 23:37:11</publishTime>
+      <publishTime>06/04/2024 21:43:00</publishTime>
     </File>
     <File Include="API_UDB.dll">
-      <publishTime>06/03/2024 23:37:10</publishTime>
+      <publishTime>06/04/2024 21:43:00</publishTime>
     </File>
     <File Include="API_UDB.exe">
-      <publishTime>06/03/2024 23:37:10</publishTime>
+      <publishTime>06/04/2024 21:43:00</publishTime>
     </File>
     <File Include="API_UDB.pdb">
-      <publishTime>06/03/2024 23:37:10</publishTime>
+      <publishTime>06/04/2024 21:43:00</publishTime>
     </File>
     <File Include="API_UDB.runtimeconfig.json">
       <publishTime>06/03/2024 23:37:12</publishTime>
@@ -69,7 +69,7 @@ https://go.microsoft.com/fwlink/?LinkID=208121.
       <publishTime>10/26/2023 17:27:26</publishTime>
     </File>
     <File Include="web.config">
-      <publishTime>06/03/2024 23:37:28</publishTime>
+      <publishTime>06/04/2024 21:43:15</publishTime>
     </File>
   </ItemGroup>
 </Project>

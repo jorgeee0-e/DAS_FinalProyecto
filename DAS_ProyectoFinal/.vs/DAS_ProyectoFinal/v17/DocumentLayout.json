@@ -56,7 +56,7 @@
               "RelativeDocumentMoniker": "DAS_ProyectoFinal\\Models\\Noticias.cs",
               "ToolTip": "C:\\Users\\Jorge LG\\OneDrive - Universidad Don Bosco\\UDB - CC Computaci\u00F3n\\UDB Ciclo I - 2024\\DAS901\\Unidad V\\DAS_ProyectoFinal\\DAS_ProyectoFinal\\Models\\Noticias.cs",
               "RelativeToolTip": "DAS_ProyectoFinal\\Models\\Noticias.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBAAAAAqAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAqwB0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-05T03:14:53.953Z",
               "EditorCaption": ""
@@ -71,8 +71,7 @@
               "RelativeToolTip": "DAS_ProyectoFinal\\Models\\ResultadoAPI.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-05T02:49:11.493Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-05T02:49:11.493Z"
             },
             {
               "$type": "Document",
@@ -84,8 +83,7 @@
               "RelativeToolTip": "DAS_ProyectoFinal\\Models\\ResultadoAPIC.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-05T02:49:04.423Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-05T02:49:04.423Z"
             },
             {
               "$type": "Document",
@@ -97,8 +95,7 @@
               "RelativeToolTip": "DAS_ProyectoFinal\\Servicios\\IServicio_API.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-05T02:45:37.464Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-05T02:45:37.464Z"
             },
             {
               "$type": "Document",
@@ -110,8 +107,7 @@
               "RelativeToolTip": "DAS_ProyectoFinal\\Models\\ResultadoAPIN.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-05T02:43:03.794Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-05T02:43:03.794Z"
             },
             {
               "$type": "Document",
@@ -123,8 +119,7 @@
               "RelativeToolTip": "DAS_ProyectoFinal\\Controllers\\NoticiasController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-05T01:28:20.72Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-05T01:28:20.72Z"
             },
             {
               "$type": "Document",
@@ -136,8 +131,7 @@
               "RelativeToolTip": "DAS_ProyectoFinal\\Servicios\\Servicio_API.cs",
               "ViewState": "AQIAAEMAAAAAAAAAAAAYwGEAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-05T00:11:44.504Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-05T00:11:44.504Z"
             },
             {
               "$type": "Document",
@@ -149,8 +143,7 @@
               "RelativeToolTip": "DAS_ProyectoFinal\\Views\\Noticias\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAABxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-05T02:09:04.17Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-05T02:09:04.17Z"
             },
             {
               "$type": "Document",
@@ -162,8 +155,7 @@
               "RelativeToolTip": "DAS_ProyectoFinal\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAABeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-05T00:02:28.62Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-05T00:02:28.62Z"
             }
           ]
         }
