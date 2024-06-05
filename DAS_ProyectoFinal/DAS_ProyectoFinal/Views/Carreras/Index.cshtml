@@ -1,0 +1,95 @@
+﻿
+@{
+    ViewData["Title"] = "Carreras";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    @model IEnumerable<Carreras>
+   
+}
+<div class="row">
+            <div class="row justify-content-center mt-5 ">
+                    <header class="mb-4">
+                        <h1 class="fw-bolder mb-1">Bienvenido a tu futuro! </h1>
+                    </header>
+                    
+                    <div class="ratio ratio-16x9">
+                        <iframe width="798"
+                                height="449"
+                                src="https://www.youtube.com/embed/pChrM7lBCpY"
+                                title="Proceso de Ingreso UDB" frameborder="0"
+                                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                                referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+                    </div>
+            <section class="mb-2 mt-3">
+                <p class="fs-5 mb-2">Somos una institución comprometida con la excelencia académica y el desarrollo integral de nuestros estudiantes. ¿Estás listo para dar el primer paso hacia un futuro brillante?</p>
+                <p class="fs-5 mb-2">¿Quieres saber cómo unirte a nuestra comunidad estudiantil? No te pierdas nuestro video tutorial que te guiará paso a paso en el proceso de registro y te mostrará todo lo que necesitas saber para comenzar tu viaje académico con nosotros. ¡Es fácil y rápido!</p>
+                <p class="fs-5 mb-2">Además, te invitamos a echar un vistazo a nuestras carreras disponibles. Con una amplia gama de programas educativos diseñados para adaptarse a tus intereses y aspiraciones, estamos seguros de que encontrarás la carrera perfecta para ti.</p>
+            </section>
+            </div>
+
+        <div class="row">
+            <h2 class="fw-bolder mb-2">Explora las carreras disponibles </h2>
+
+            @foreach (var c in Model)
+            {
+
+                <div class="col-md-4">
+                    <div class="card mb-4 shadow-sm">
+                        @{
+                            string imgUrl = "";
+                            if (c.Imagen != null && c.Imagen.Length > 0)
+                            {
+                                string base64 = Convert.ToBase64String(c.Imagen);
+                                string mimeType = GetMimeType(base64);
+                                imgUrl = $"data:{mimeType};base64,{base64}";
+                            }
+
+                        }
+                        <img id="img-carrera" class="card-img-top" src="@imgUrl" alt="@c.Nombre_carrera" />
+                        <div class="card-body">
+                            <h6 class="card-title">@c.Nombre_carrera</h6>
+                            <row>
+                                <small class="text-muted d-block"> <b>Duracion:</b> @c.Duracion años </small>
+                            </row>
+                            @* <p class="card-text">@c.Descripcion</p> *@
+                            <div>
+                                @* <div class="btn-group">
+                                    <ahref="@Url.Action("DetailsUnique","Peliculas",new{nombre = p.titulo})" class="btn btn-sm btn-outline-secondary">View</a>
+                                </div> *@
+                                <row>
+                                    <small class="text-muted d-block"> <b>Facultad:</b> @c.Facultad</small>
+                                </row>
+                                
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>       
+</div>
+
+@functions {
+    public string GetMimeType(string base64String)
+    {
+        byte[] bytes = Convert.FromBase64String(base64String);
+        string mimeType = "application/octet-stream"; // Default MIME type
+
+        // Detect the MIME type based on the bytes
+        if (bytes.Length > 4 && bytes[0] == 0xFF && bytes[1] == 0xD8 && bytes[2] == 0xFF)
+        {
+            mimeType = "image/jpeg";
+        }
+        else if (bytes.Length > 3 && bytes[0] == 0x89 && bytes[1] == 0x50 && bytes[2] == 0x4E && bytes[3] == 0x47)
+        {
+            mimeType = "image/png";
+        }
+        else if (bytes.Length > 3 && bytes[0] == 0x52 && bytes[1] == 0x49 && bytes[2] == 0x46 && bytes[3] == 0x46)
+        {
+            mimeType = "image/webp";
+        }
+
+        return mimeType;
+    }
+}
+

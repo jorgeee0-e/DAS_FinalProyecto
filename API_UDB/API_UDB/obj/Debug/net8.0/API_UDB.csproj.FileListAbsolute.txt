@@ -38,3 +38,4 @@ C:\Users\Jorge LG\OneDrive - Universidad Don Bosco\UDB - CC Computación\UDB Cic
 C:\Users\Jorge LG\OneDrive - Universidad Don Bosco\UDB - CC Computación\UDB Ciclo I - 2024\DAS901\Unidad V\API_UDB\API_UDB\obj\Debug\net8.0\API_UDB.pdb
 C:\Users\Jorge LG\OneDrive - Universidad Don Bosco\UDB - CC Computación\UDB Ciclo I - 2024\DAS901\Unidad V\API_UDB\API_UDB\obj\Debug\net8.0\API_UDB.genruntimeconfig.cache
 C:\Users\Jorge LG\OneDrive - Universidad Don Bosco\UDB - CC Computación\UDB Ciclo I - 2024\DAS901\Unidad V\API_UDB\API_UDB\obj\Debug\net8.0\ref\API_UDB.dll
+C:\Users\Jorge LG\OneDrive - Universidad Don Bosco\UDB - CC Computación\UDB Ciclo I - 2024\DAS901\Unidad V\API_UDB\API_UDB\obj\Debug\net8.0\API_UDB.sourcelink.json

@@ -1,7 +1,44 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Jorge LG\\OneDrive - Universidad Don Bosco\\UDB - CC Computaci\u00F3n\\UDB Ciclo I - 2024\\DAS901\\Unidad V\\DAS_ProyectoFinal\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{260E56E9-0894-449A-A921-3F67EB072387}|DAS_ProyectoFinal\\DAS_ProyectoFinal.csproj|c:\\users\\jorge lg\\onedrive - universidad don bosco\\udb - cc computaci\u00F3n\\udb ciclo i - 2024\\das901\\unidad v\\das_proyectofinal\\das_proyectofinal\\models\\noticias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{260E56E9-0894-449A-A921-3F67EB072387}|DAS_ProyectoFinal\\DAS_ProyectoFinal.csproj|solutionrelative:das_proyectofinal\\models\\noticias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{260E56E9-0894-449A-A921-3F67EB072387}|DAS_ProyectoFinal\\DAS_ProyectoFinal.csproj|c:\\users\\jorge lg\\onedrive - universidad don bosco\\udb - cc computaci\u00F3n\\udb ciclo i - 2024\\das901\\unidad v\\das_proyectofinal\\das_proyectofinal\\controllers\\noticiascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{260E56E9-0894-449A-A921-3F67EB072387}|DAS_ProyectoFinal\\DAS_ProyectoFinal.csproj|solutionrelative:das_proyectofinal\\controllers\\noticiascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{260E56E9-0894-449A-A921-3F67EB072387}|DAS_ProyectoFinal\\DAS_ProyectoFinal.csproj|c:\\users\\jorge lg\\onedrive - universidad don bosco\\udb - cc computaci\u00F3n\\udb ciclo i - 2024\\das901\\unidad v\\das_proyectofinal\\das_proyectofinal\\servicios\\servicio_api.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{260E56E9-0894-449A-A921-3F67EB072387}|DAS_ProyectoFinal\\DAS_ProyectoFinal.csproj|solutionrelative:das_proyectofinal\\servicios\\servicio_api.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{260E56E9-0894-449A-A921-3F67EB072387}|DAS_ProyectoFinal\\DAS_ProyectoFinal.csproj|c:\\users\\jorge lg\\onedrive - universidad don bosco\\udb - cc computaci\u00F3n\\udb ciclo i - 2024\\das901\\unidad v\\das_proyectofinal\\das_proyectofinal\\views\\noticias\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{260E56E9-0894-449A-A921-3F67EB072387}|DAS_ProyectoFinal\\DAS_ProyectoFinal.csproj|solutionrelative:das_proyectofinal\\views\\noticias\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{260E56E9-0894-449A-A921-3F67EB072387}|DAS_ProyectoFinal\\DAS_ProyectoFinal.csproj|c:\\users\\jorge lg\\onedrive - universidad don bosco\\udb - cc computaci\u00F3n\\udb ciclo i - 2024\\das901\\unidad v\\das_proyectofinal\\das_proyectofinal\\servicios\\iservicio_api.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{260E56E9-0894-449A-A921-3F67EB072387}|DAS_ProyectoFinal\\DAS_ProyectoFinal.csproj|solutionrelative:das_proyectofinal\\servicios\\iservicio_api.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{260E56E9-0894-449A-A921-3F67EB072387}|DAS_ProyectoFinal\\DAS_ProyectoFinal.csproj|c:\\users\\jorge lg\\onedrive - universidad don bosco\\udb - cc computaci\u00F3n\\udb ciclo i - 2024\\das901\\unidad v\\das_proyectofinal\\das_proyectofinal\\models\\resultadoapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{260E56E9-0894-449A-A921-3F67EB072387}|DAS_ProyectoFinal\\DAS_ProyectoFinal.csproj|solutionrelative:das_proyectofinal\\models\\resultadoapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{260E56E9-0894-449A-A921-3F67EB072387}|DAS_ProyectoFinal\\DAS_ProyectoFinal.csproj|c:\\users\\jorge lg\\onedrive - universidad don bosco\\udb - cc computaci\u00F3n\\udb ciclo i - 2024\\das901\\unidad v\\das_proyectofinal\\das_proyectofinal\\models\\resultadoapic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{260E56E9-0894-449A-A921-3F67EB072387}|DAS_ProyectoFinal\\DAS_ProyectoFinal.csproj|solutionrelative:das_proyectofinal\\models\\resultadoapic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{260E56E9-0894-449A-A921-3F67EB072387}|DAS_ProyectoFinal\\DAS_ProyectoFinal.csproj|c:\\users\\jorge lg\\onedrive - universidad don bosco\\udb - cc computaci\u00F3n\\udb ciclo i - 2024\\das901\\unidad v\\das_proyectofinal\\das_proyectofinal\\models\\resultadoapin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{260E56E9-0894-449A-A921-3F67EB072387}|DAS_ProyectoFinal\\DAS_ProyectoFinal.csproj|solutionrelative:das_proyectofinal\\models\\resultadoapin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{260E56E9-0894-449A-A921-3F67EB072387}|DAS_ProyectoFinal\\DAS_ProyectoFinal.csproj|c:\\users\\jorge lg\\onedrive - universidad don bosco\\udb - cc computaci\u00F3n\\udb ciclo i - 2024\\das901\\unidad v\\das_proyectofinal\\das_proyectofinal\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{260E56E9-0894-449A-A921-3F67EB072387}|DAS_ProyectoFinal\\DAS_ProyectoFinal.csproj|solutionrelative:das_proyectofinal\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +46,124 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Noticias.cs",
+              "DocumentMoniker": "C:\\Users\\Jorge LG\\OneDrive - Universidad Don Bosco\\UDB - CC Computaci\u00F3n\\UDB Ciclo I - 2024\\DAS901\\Unidad V\\DAS_ProyectoFinal\\DAS_ProyectoFinal\\Models\\Noticias.cs",
+              "RelativeDocumentMoniker": "DAS_ProyectoFinal\\Models\\Noticias.cs",
+              "ToolTip": "C:\\Users\\Jorge LG\\OneDrive - Universidad Don Bosco\\UDB - CC Computaci\u00F3n\\UDB Ciclo I - 2024\\DAS901\\Unidad V\\DAS_ProyectoFinal\\DAS_ProyectoFinal\\Models\\Noticias.cs",
+              "RelativeToolTip": "DAS_ProyectoFinal\\Models\\Noticias.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBAAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T03:14:53.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ResultadoAPI.cs",
+              "DocumentMoniker": "C:\\Users\\Jorge LG\\OneDrive - Universidad Don Bosco\\UDB - CC Computaci\u00F3n\\UDB Ciclo I - 2024\\DAS901\\Unidad V\\DAS_ProyectoFinal\\DAS_ProyectoFinal\\Models\\ResultadoAPI.cs",
+              "RelativeDocumentMoniker": "DAS_ProyectoFinal\\Models\\ResultadoAPI.cs",
+              "ToolTip": "C:\\Users\\Jorge LG\\OneDrive - Universidad Don Bosco\\UDB - CC Computaci\u00F3n\\UDB Ciclo I - 2024\\DAS901\\Unidad V\\DAS_ProyectoFinal\\DAS_ProyectoFinal\\Models\\ResultadoAPI.cs",
+              "RelativeToolTip": "DAS_ProyectoFinal\\Models\\ResultadoAPI.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T02:49:11.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ResultadoAPIC.cs",
+              "DocumentMoniker": "C:\\Users\\Jorge LG\\OneDrive - Universidad Don Bosco\\UDB - CC Computaci\u00F3n\\UDB Ciclo I - 2024\\DAS901\\Unidad V\\DAS_ProyectoFinal\\DAS_ProyectoFinal\\Models\\ResultadoAPIC.cs",
+              "RelativeDocumentMoniker": "DAS_ProyectoFinal\\Models\\ResultadoAPIC.cs",
+              "ToolTip": "C:\\Users\\Jorge LG\\OneDrive - Universidad Don Bosco\\UDB - CC Computaci\u00F3n\\UDB Ciclo I - 2024\\DAS901\\Unidad V\\DAS_ProyectoFinal\\DAS_ProyectoFinal\\Models\\ResultadoAPIC.cs",
+              "RelativeToolTip": "DAS_ProyectoFinal\\Models\\ResultadoAPIC.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T02:49:04.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IServicio_API.cs",
+              "DocumentMoniker": "C:\\Users\\Jorge LG\\OneDrive - Universidad Don Bosco\\UDB - CC Computaci\u00F3n\\UDB Ciclo I - 2024\\DAS901\\Unidad V\\DAS_ProyectoFinal\\DAS_ProyectoFinal\\Servicios\\IServicio_API.cs",
+              "RelativeDocumentMoniker": "DAS_ProyectoFinal\\Servicios\\IServicio_API.cs",
+              "ToolTip": "C:\\Users\\Jorge LG\\OneDrive - Universidad Don Bosco\\UDB - CC Computaci\u00F3n\\UDB Ciclo I - 2024\\DAS901\\Unidad V\\DAS_ProyectoFinal\\DAS_ProyectoFinal\\Servicios\\IServicio_API.cs",
+              "RelativeToolTip": "DAS_ProyectoFinal\\Servicios\\IServicio_API.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T02:45:37.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ResultadoAPIN.cs",
+              "DocumentMoniker": "C:\\Users\\Jorge LG\\OneDrive - Universidad Don Bosco\\UDB - CC Computaci\u00F3n\\UDB Ciclo I - 2024\\DAS901\\Unidad V\\DAS_ProyectoFinal\\DAS_ProyectoFinal\\Models\\ResultadoAPIN.cs",
+              "RelativeDocumentMoniker": "DAS_ProyectoFinal\\Models\\ResultadoAPIN.cs",
+              "ToolTip": "C:\\Users\\Jorge LG\\OneDrive - Universidad Don Bosco\\UDB - CC Computaci\u00F3n\\UDB Ciclo I - 2024\\DAS901\\Unidad V\\DAS_ProyectoFinal\\DAS_ProyectoFinal\\Models\\ResultadoAPIN.cs",
+              "RelativeToolTip": "DAS_ProyectoFinal\\Models\\ResultadoAPIN.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T02:43:03.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NoticiasController.cs",
+              "DocumentMoniker": "C:\\Users\\Jorge LG\\OneDrive - Universidad Don Bosco\\UDB - CC Computaci\u00F3n\\UDB Ciclo I - 2024\\DAS901\\Unidad V\\DAS_ProyectoFinal\\DAS_ProyectoFinal\\Controllers\\NoticiasController.cs",
+              "RelativeDocumentMoniker": "DAS_ProyectoFinal\\Controllers\\NoticiasController.cs",
+              "ToolTip": "C:\\Users\\Jorge LG\\OneDrive - Universidad Don Bosco\\UDB - CC Computaci\u00F3n\\UDB Ciclo I - 2024\\DAS901\\Unidad V\\DAS_ProyectoFinal\\DAS_ProyectoFinal\\Controllers\\NoticiasController.cs",
+              "RelativeToolTip": "DAS_ProyectoFinal\\Controllers\\NoticiasController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T01:28:20.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Servicio_API.cs",
+              "DocumentMoniker": "C:\\Users\\Jorge LG\\OneDrive - Universidad Don Bosco\\UDB - CC Computaci\u00F3n\\UDB Ciclo I - 2024\\DAS901\\Unidad V\\DAS_ProyectoFinal\\DAS_ProyectoFinal\\Servicios\\Servicio_API.cs",
+              "RelativeDocumentMoniker": "DAS_ProyectoFinal\\Servicios\\Servicio_API.cs",
+              "ToolTip": "C:\\Users\\Jorge LG\\OneDrive - Universidad Don Bosco\\UDB - CC Computaci\u00F3n\\UDB Ciclo I - 2024\\DAS901\\Unidad V\\DAS_ProyectoFinal\\DAS_ProyectoFinal\\Servicios\\Servicio_API.cs",
+              "RelativeToolTip": "DAS_ProyectoFinal\\Servicios\\Servicio_API.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAYwGEAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T00:11:44.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Jorge LG\\OneDrive - Universidad Don Bosco\\UDB - CC Computaci\u00F3n\\UDB Ciclo I - 2024\\DAS901\\Unidad V\\DAS_ProyectoFinal\\DAS_ProyectoFinal\\Views\\Noticias\\Index.cshtml",
+              "RelativeDocumentMoniker": "DAS_ProyectoFinal\\Views\\Noticias\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Jorge LG\\OneDrive - Universidad Don Bosco\\UDB - CC Computaci\u00F3n\\UDB Ciclo I - 2024\\DAS901\\Unidad V\\DAS_ProyectoFinal\\DAS_ProyectoFinal\\Views\\Noticias\\Index.cshtml",
+              "RelativeToolTip": "DAS_ProyectoFinal\\Views\\Noticias\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAABxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-05T02:09:04.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Jorge LG\\OneDrive - Universidad Don Bosco\\UDB - CC Computaci\u00F3n\\UDB Ciclo I - 2024\\DAS901\\Unidad V\\DAS_ProyectoFinal\\DAS_ProyectoFinal\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "DAS_ProyectoFinal\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Jorge LG\\OneDrive - Universidad Don Bosco\\UDB - CC Computaci\u00F3n\\UDB Ciclo I - 2024\\DAS901\\Unidad V\\DAS_ProyectoFinal\\DAS_ProyectoFinal\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "DAS_ProyectoFinal\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAABeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-05T00:02:28.62Z",
+              "EditorCaption": ""
             }
           ]
         }

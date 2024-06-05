@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\DAS_ProyectoFinal.props" />
+</Project>

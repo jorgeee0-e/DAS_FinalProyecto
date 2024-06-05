@@ -1,7 +1,11 @@
+using DAS_ProyectoFinal.Servicios;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+
+builder.Services.AddScoped<Iservicio_API, Servicio_API>();  
 
 var app = builder.Build();
 
@@ -18,6 +22,6 @@ app.UseAuthorization();
 
 app.MapControllerRoute(
     name: "default",
-    pattern: "{controller=Home}/{action=Index}/{id?}");
+    pattern: "{controller=Carreras}/{action=Index}/{id?}");
 
 app.Run();

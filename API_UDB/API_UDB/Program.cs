@@ -1,5 +1,17 @@
 var builder = WebApplication.CreateBuilder(args);
 
+var misReglasCors = "ReglsCors";
+
+builder.Services.AddCors(option =>
+
+option.AddPolicy(name: misReglasCors,
+    builder =>
+    {
+        builder.AllowAnyOrigin().AllowAnyHeader().AllowAnyMethod();
+    }
+    )
+);
+
 // Add services to the container.
 
 builder.Services.AddControllers();
@@ -10,11 +22,17 @@ builder.Services.AddSwaggerGen();
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
-if (app.Environment.IsDevelopment())
-{
-    app.UseSwagger();
-    app.UseSwaggerUI();
-}
+//if (app.Environment.IsDevelopment())
+//{
+//    app.UseSwagger();
+//    app.UseSwaggerUI();
+//}
+//lo saque del if para poder usar la bd de samee
+app.UseSwagger();
+app.UseSwaggerUI();
+
+
+app.UseCors(misReglasCors);
 
 app.UseAuthorization();
 

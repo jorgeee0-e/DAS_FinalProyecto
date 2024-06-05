@@ -1,4 +1,5 @@
 ﻿using API_UDB.Models;
+using Microsoft.AspNetCore.Cors;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
@@ -6,6 +7,7 @@ using System.Data;
 using System.Data.SqlClient;
 namespace API_UDB.Controllers
 {
+    [EnableCors("ReglasCors")]
     [Route("api/[controller]")]
     [ApiController]
     public class CarrerasController : ControllerBase

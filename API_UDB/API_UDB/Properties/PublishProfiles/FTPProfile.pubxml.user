@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAATvlXZEIqEEizcInyBkvfrgAAAAACAAAAAAAQZgAAAAEAACAAAAAY9atNCmkGN2Gqd68J0+2gDpVWQYGIB1WwDFroT/2hXwAAAAAOgAAAAAIAACAAAADK46evRsdZFAeHCOhCSKL3YX00WTC6ToLlJR2EjzHVhSAAAAAqvMbQBQGegEq/JQjzOgPQSdX7GThoYZPGhmxn9TnozEAAAACT8NkSpzn1BEYYRhEl0IKfTFmQmNyrrV5qa2AIvgLahuyFBaGRJ7oiLfipmv37NUOe3V7s3h+UTFYlXEy9eQzN</EncryptedPassword>
+    <_PublishTargetUrl>ftp://155.254.244.38/www.udbwebbd.somee.com</_PublishTargetUrl>
+    <History>True|2024-06-04T05:38:12.3289517Z||;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="API_UDB.deps.json">
+      <publishTime>06/03/2024 23:37:11</publishTime>
+    </File>
+    <File Include="API_UDB.dll">
+      <publishTime>06/03/2024 23:37:10</publishTime>
+    </File>
+    <File Include="API_UDB.exe">
+      <publishTime>06/03/2024 23:37:10</publishTime>
+    </File>
+    <File Include="API_UDB.pdb">
+      <publishTime>06/03/2024 23:37:10</publishTime>
+    </File>
+    <File Include="API_UDB.runtimeconfig.json">
+      <publishTime>06/03/2024 23:37:12</publishTime>
+    </File>
+    <File Include="appsettings.Development.json">
+      <publishTime>06/02/2024 22:18:19</publishTime>
+    </File>
+    <File Include="appsettings.json">
+      <publishTime>06/03/2024 23:21:11</publishTime>
+    </File>
+    <File Include="Microsoft.EntityFrameworkCore.Abstractions.dll">
+      <publishTime>05/19/2024 17:54:30</publishTime>
+    </File>
+    <File Include="Microsoft.EntityFrameworkCore.dll">
+      <publishTime>05/19/2024 17:55:04</publishTime>
+    </File>
+    <File Include="Microsoft.OpenApi.dll">
+      <publishTime>08/29/2020 14:14:12</publishTime>
+    </File>
+    <File Include="runtimes/unix/lib/netcoreapp2.1/System.Data.SqlClient.dll">
+      <publishTime>10/26/2023 17:34:06</publishTime>
+    </File>
+    <File Include="runtimes/win-arm64/native/sni.dll">
+      <publishTime>07/12/2017 05:24:24</publishTime>
+    </File>
+    <File Include="runtimes/win-x64/native/sni.dll">
+      <publishTime>07/12/2017 05:24:22</publishTime>
+    </File>
+    <File Include="runtimes/win-x86/native/sni.dll">
+      <publishTime>07/12/2017 05:24:22</publishTime>
+    </File>
+    <File Include="runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll">
+      <publishTime>10/26/2023 17:34:10</publishTime>
+    </File>
+    <File Include="Swashbuckle.AspNetCore.Swagger.dll">
+      <publishTime>07/19/2022 09:21:22</publishTime>
+    </File>
+    <File Include="Swashbuckle.AspNetCore.SwaggerGen.dll">
+      <publishTime>07/19/2022 09:21:38</publishTime>
+    </File>
+    <File Include="Swashbuckle.AspNetCore.SwaggerUI.dll">
+      <publishTime>07/19/2022 09:21:48</publishTime>
+    </File>
+    <File Include="System.Data.SqlClient.dll">
+      <publishTime>10/26/2023 17:27:26</publishTime>
+    </File>
+    <File Include="web.config">
+      <publishTime>06/03/2024 23:37:28</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,38 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    @model IEnumerable<Noticias>
+}
+
+<div class="row">
+    <h2 class="fw-bolder mb-2">Conoce que esta pasando en la Universidad! </h2>
+
+    @foreach (var c in Model)
+    {
+
+        <div class="col-md-4">
+            <div class="card mb-4 shadow-sm">
+                
+                <img id="img-carrera" class="card-img-top" src=@c.Imagen alt="@c.Titulo" />
+                <div class="card-body">
+                    <h6 class="card-title">@c.Titulo</h6>
+                    <row>
+                        <small class="text-muted d-block"> <b>Publicado en:</b> @c.Fecha_publicacion.ToSqlString() </small>
+                    </row>
+                    @* <p class="card-text">@c.Descripcion</p> *@
+                    <div>
+                        @* <div class="btn-group">
+                    <ahref="@Url.Action("DetailsUnique","Peliculas",new{nombre = p.titulo})" class="btn btn-sm btn-outline-secondary">View</a>
+                    </div> *@
+                        @* <row>
+                            <small class="text-muted d-block"> <b>Facultad:</b> @c.</small>
+                        </row> *@
+
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    }
+</div>

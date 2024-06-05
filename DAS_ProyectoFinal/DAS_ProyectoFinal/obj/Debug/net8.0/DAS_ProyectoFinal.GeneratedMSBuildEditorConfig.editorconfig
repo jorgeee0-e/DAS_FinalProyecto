@@ -1,11 +1,19 @@
 is_global = true
 build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
 build_property.TargetPlatformMinVersion = 
 build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
 build_property.ProjectTypeGuids = 
 build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
 build_property.PlatformNeutralAssembly = 
 build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = DAS_ProyectoFinal
 build_property.RootNamespace = DAS_ProyectoFinal
@@ -18,12 +26,24 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\Jorge LG\OneDrive - Universidad Don Bosco\UDB - CC Computación\UDB Ciclo I - 2024\DAS901\Unidad V\DAS_ProyectoFinal\DAS_ProyectoFinal
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/Jorge LG/OneDrive - Universidad Don Bosco/UDB - CC Computación/UDB Ciclo I - 2024/DAS901/Unidad V/DAS_ProyectoFinal/DAS_ProyectoFinal/Views/Carreras/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FycmVyYXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Jorge LG/OneDrive - Universidad Don Bosco/UDB - CC Computación/UDB Ciclo I - 2024/DAS901/Unidad V/DAS_ProyectoFinal/DAS_ProyectoFinal/Views/Contactanos/GuardarC.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdGFub3NcR3VhcmRhckMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Jorge LG/OneDrive - Universidad Don Bosco/UDB - CC Computación/UDB Ciclo I - 2024/DAS901/Unidad V/DAS_ProyectoFinal/DAS_ProyectoFinal/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Jorge LG/OneDrive - Universidad Don Bosco/UDB - CC Computación/UDB Ciclo I - 2024/DAS901/Unidad V/DAS_ProyectoFinal/DAS_ProyectoFinal/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Jorge LG/OneDrive - Universidad Don Bosco/UDB - CC Computación/UDB Ciclo I - 2024/DAS901/Unidad V/DAS_ProyectoFinal/DAS_ProyectoFinal/Views/Noticias/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTm90aWNpYXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Jorge LG/OneDrive - Universidad Don Bosco/UDB - CC Computación/UDB Ciclo I - 2024/DAS901/Unidad V/DAS_ProyectoFinal/DAS_ProyectoFinal/Views/Shared/Error.cshtml]
